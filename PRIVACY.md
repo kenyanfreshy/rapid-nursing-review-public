@@ -62,6 +62,12 @@ related to your purchase records, you can contact us (below) or Apple directly. 
 example the EEA, the UK or California), you may have rights to access or delete personal information; contact us and we
 will help.
 
+## Delete your data
+
+**Study data (on your device):** open the app and go to **Settings → Reset data**, or uninstall the app. Your answers, scores, bookmarks, study plan and the name you entered are erased right away. We never have a copy.
+
+**Purchase records:** email **alexkorirbook@gmail.com** with the subject "Delete my data" and tell us which app store you use (Google Play or the App Store). We'll ask RevenueCat to delete the app user ID and purchase history linked to your device, usually within 30 days. Your purchase receipt itself is kept by Google or Apple under their own policies, and deleting the RevenueCat record doesn't cancel a subscription, so cancel it first in your store account.
+
 ## Educational use
 
 The app is for education and exam preparation only. It is not medical advice, and scores do not predict exam results.
